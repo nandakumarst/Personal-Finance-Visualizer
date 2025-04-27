@@ -92,12 +92,4 @@ $ npm start
 └── README.md
 ```
 
-## 💡 Notes
-
-- Ensure data persists in MongoDB.
-- Handle error states gracefully.
-
----
-
-💻 Built with ❤️ by [Yogesh Singh] 
 
